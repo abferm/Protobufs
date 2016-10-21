@@ -1,0 +1,1 @@
+../../../protobuf/aws/kinesis/aggregation-format.md
